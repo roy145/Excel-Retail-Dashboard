@@ -49,7 +49,7 @@ Average Discount
 
 Developed calculated fields to enable deeper analysis of sales, returns, and profitability.
 
-### KPI Table Sample:\
+### KPI Table Sample:
 
 ![Screenshot 2025-03-25 145217](https://github.com/user-attachments/assets/466b02b5-cf62-4c07-a64c-6c039a33aba5)
 
@@ -113,6 +113,8 @@ The Excel Retail Dashboard plays a crucial role in improving business efficiency
 ____________________________________________________________________________________________________________________________
 
 The Dashboard is built using three data tables:
+
+
 **1. Orders table:** Contains data on order details including customer info, products, sales, profit, and shipping details.
 
 **2. People Table:** Lists sales representatives by region.
