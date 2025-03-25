@@ -120,10 +120,15 @@ Year-over-year profit margin analysis
 The Excel Retail Dashboard plays a crucial role in improving business efficiency and profitability. Key benefits include:
 
 ✅ Data-Driven Decision Making – Empowers businesses with precise insights for strategy optimization.
+
 ✅ Enhanced Operational Efficiency – Reduces manual reporting efforts and provides automated, real-time insights.
+
 ✅ Improved Profitability Analysis – Helps businesses identify profitable products and underperforming areas.
+
 ✅ Customer Retention & Satisfaction – Enables targeted strategies based on return analysis and top customer profiling.
+
 ✅ Scalability & Adaptability – The dashboard can be adapted to other datasets and business models for broader applications.
+
 
 ### Data Sources
 
