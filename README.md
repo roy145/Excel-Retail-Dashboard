@@ -102,7 +102,12 @@ The Excel Retail Dashboard plays a crucial role in improving business efficiency
 ✅ Customer Retention & Satisfaction – Enables targeted strategies based on return analysis and top customer profiling.
 ✅ Scalability & Adaptability – The dashboard can be adapted to other datasets and business models for broader applications.
 
+
 🏁 Conclusion
 The Excel Retail Dashboard is a powerful analytical tool that transforms raw sales data into meaningful business insights. By leveraging Power Query for data cleaning and Excel’s advanced visualization features, the dashboard ensures efficient monitoring of sales, profitability, and customer trends.
 
 This project serves as a foundation for scalable retail analytics, enabling businesses to make data-driven decisions with confidence.
+
+### Screenshot
+
+![Screenshot 2025-03-25 144808](https://github.com/user-attachments/assets/c93f408c-e450-47e7-bd54-388759700310)
