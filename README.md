@@ -1,3 +1,5 @@
+Excel Retail Dashboard
+
 📌 Overview
 
 The Excel Retail Dashboard is an interactive and dynamic reporting tool designed to analyze sales, profits, and returns efficiently. Using Power Query, it cleans and processes data from multiple tables (Orders, People, Returns) to generate key business insights and visualizations.
