@@ -113,17 +113,13 @@ ________________________________________________________________________________
 
 The Dashboard is built using three data tables:
 **1. Orders table:** Contains data on order details including customer info, products, sales, profit, and shipping details.
+
 **2. People Table:** Lists sales representatives by region.
+
 **3. Returns Table:** Contains return data, including which orders were returned across markets.
 
 **Sample of Orders Data:**
-Order ID	Order date	ship date 	Ship Mode	Customer ID	Customer Name	Segment	City	State	Country	Postal Code	Market	Region	Product ID	Category	Sub-Category	Product Name	Sales	Quantity	Discount	Profit	Shipping Cost	Order Priority
-CA-2012-124891	7/31/2020	7/31/2020	Same Day	RH-19495	Rick Hansen	Consumer	New York City	New York	United States	10024	US	East	TEC-AC-10003033	Technology	Accessories	Plantronics CS510 - Over-the-Head monaural Wireless Headset System	2309.65	7	0	762.1845	933.57	Critical
-IN-2013-77878	2/5/2021	2/7/2021	Second Class	JR-16210	Justin Ritter	Corporate	Wollongong	New South Wales	Australia		APAC	Oceania	FUR-CH-10003950	Furniture	Chairs	Novimex Executive Leather Armchair, Black	3709.395	9	0.1	-288.765	923.63	Critical
-IN-2013-71249	10/17/2021	10/18/2021	First Class	CR-12730	Craig Reiter	Consumer	Brisbane	Queensland	Australia		APAC	Oceania	TEC-PH-10004664	Technology	Phones	Nokia Smart Phone, with Caller ID	5175.171	9	0.1	919.971	915.49	Medium
-ES-2013-1579342	1/28/2021	1/30/2021	First Class	KM-16375	Katherine Murray	Home Office	Berlin	Berlin	Germany		EU	Central	TEC-PH-10004583	Technology	Phones	Motorola Smart Phone, Cordless	2892.51	5	0.1	-96.54	910.16	Medium
-SG-2013-4320	11/5/2021	11/6/2021	Same Day	RH-9495	Rick Hansen	Consumer	Dakar	Dakar	Senegal		Africa	Africa	TEC-SHA-10000501	Technology	Copiers	Sharp Wireless Fax, High-Speed	2832.96	8	0	311.52	903.04	Critical
-IN-2013-42360	6/28/2021	7/1/2021	Second Class	JM-15655	Jim Mitchum	Corporate	Sydney	New South Wales	Australia		APAC	Oceania	TEC-PH-10000030	Technology	Phones	Samsung Smart Phone, with Caller ID	2862.675	5	0.1	763.275	897.35	Critical
+
 ![image](https://github.com/user-attachments/assets/aa199870-b2ea-47af-9490-3613cad3f7e0)
 
 
