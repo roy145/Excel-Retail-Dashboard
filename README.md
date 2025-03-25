@@ -39,9 +39,7 @@ Total Sales (Sum of Sales)
 
 Total Profit (Sum of Profit)
 
-Total Quantity Sold
-
-Profit Margin
+Total Quantity
 
 Total Number of Orders
 
