@@ -1,3 +1,4 @@
+
 📌 Overview
 The Excel Retail Dashboard is a comprehensive, interactive reporting tool designed to provide key insights into sales, profitability, and return trends in a retail business. By leveraging Power Query for data transformation and advanced Excel features for visualization, this dashboard empowers users with a clear, data-driven decision-making framework.
 
