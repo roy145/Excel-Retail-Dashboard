@@ -126,4 +126,4 @@ This project serves as a foundation for scalable retail analytics, enabling busi
 
 ### Screenshot
 
-![Screenshot 2025-03-25 144808](https://github.com/user-attachments/assets/c93f408c-e450-47e7-bd54-388759700310)
+![Screenshot 2025-03-25 151652](https://github.com/user-attachments/assets/81eaa5a7-b7ce-437b-85c5-b067aef92a91)
