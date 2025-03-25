@@ -118,12 +118,6 @@ The Dashboard is built using three data tables:
 
 **3. Returns Table:** Contains return data, including which orders were returned across markets.
 
-**Sample of Orders Data:**
-
-![image](https://github.com/user-attachments/assets/aa199870-b2ea-47af-9490-3613cad3f7e0)
-
-
-
 🏁 Conclusion
 The Excel Retail Dashboard is a powerful analytical tool that transforms raw sales data into meaningful business insights. By leveraging Power Query for data cleaning and Excel’s advanced visualization features, the dashboard ensures efficient monitoring of sales, profitability, and customer trends.
 
